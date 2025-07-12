@@ -84,24 +84,12 @@ This setup helped identify how vulnerable open RDP ports are in the wild. Key ta
 - Monitor suspicious activity in real time using SIEM tools like Sentinel.
 
 ---
-
-## 🎥 Bonus: Recommended Video
+Recommended Video
 
 👉 Check out [Josh Madokar’s YouTube video](https://www.youtube.com) (🔗 link here if available) for a practical demonstration of this setup. His walkthrough complements this project with additional clarity and visuals.
 
 ---
 
-## 📁 Project Structure (Suggested)
 
-```bash
-📁 azure-sentinel-rdp-visualization
-├── screenshots/
-│   ├── vm-setup.png
-│   ├── sentinel-connector.png
-│   ├── log-output.png
-│   └── attack-map.png
-├── powershell/
-│   └── geo-enrich.ps1
-├── queries/
-│   └── sentinel-kql-sample.txt
-└── README.md
+
+
